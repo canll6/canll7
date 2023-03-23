@@ -1,3 +1,1 @@
-# canll7
-C.
-Birini kendinizden fazla sevmeyin 
+["_canll6","_canll6","_canll6","_canll6"]
